@@ -11,36 +11,38 @@
       "image": "https://fastly.picsum.photos/id/17/2500/1667.jpg?hmac=HD-JrnNUZjFiP2UZQvWcKrgLoC_pc_ouUSWv8kHsJJY",
       "name": "Station Two",
       "datecreation": "2023-02-21"
+    }
+  ],
+  "plants": [
+    {
+      "id": 1,
+      "image": "https://ecoinventos.com/wp-content/uploads/2022/03/tomate-cherry-maceta.jpg",
+      "name": "Tomate - 01",
+      "station_id" : 1,
+    },
+    {
+      "id": 2,
+      "image": "https://ecoinventos.com/wp-content/uploads/2022/03/tomate-cherry-maceta.jpg",
+      "name": "Tomate - 02",
+      "station_id" : 1,
     },
     {
       "id": 3,
-      "image": "https://fastly.picsum.photos/id/28/4928/3264.jpg?hmac=GnYF-RnBUg44PFfU5pcw_Qs0ReOyStdnZ8MtQWJqTfA",
-      "name": "Station Three",
-      "datecreation": "2023-03-18"
+      "image": "https://jardin.inecol.mx/images/PLANTA_MES/octubre/maiz5.jpg",
+      "name": "Maiz - 01",
+      "station_id" : 1,
     },
     {
       "id": 4,
-      "image": "https://fastly.picsum.photos/id/33/5000/3333.jpg?hmac=h5NVRcUXmsWm612YQOroHSA5n9R7gxZgoP60LHBPHtw",
-      "name": "Station Four",
-      "datecreation": "2023-04-30"
+      "image": "https://vendeplantas.com/wp-content/uploads/2023/06/arandano-enano-peru.jpg",
+      "name": "Arandano - 01",
+      "station_id" : 2,
     },
     {
       "id": 5,
-      "image": "https://fastly.picsum.photos/id/37/2000/1333.jpg?hmac=vpYLNsQZwU2szsZc4Uo17cW786vR0GEUVq4icaKopQI",
-      "name": "Station Five",
-      "datecreation": "2023-05-10"
-    },
-    {
-      "id": 6,
-      "image": "https://fastly.picsum.photos/id/55/4608/3072.jpg?hmac=ahGhylwdN52ULB37deeMZX6T_G7NiERtoPhwydMvUKQ",
-      "name": "Station Six",
-      "datecreation": "2023-06-22"
-    },
-    {
-      "id": 7,
-      "image": "https://fastly.picsum.photos/id/72/3000/2000.jpg?hmac=hPLN3NcJrehzDdebypIHkhh2RLnh89HwJ8QemMsRjzc",
-      "name": "Station Seven",
-      "datecreation": "2023-07-05"
+      "image": "https://vendeplantas.com/wp-content/uploads/2023/06/arandano-enano-peru.jpg",
+      "name": "Arandano - 02",
+      "station_id" : 2,
     }
   ]
 }

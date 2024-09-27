@@ -4,13 +4,43 @@
       "id": 1,
       "image": "https://example.com/station1.jpg",
       "name": "Station One",
-      "datecreation": "2024-01-15"
+      "datecreation": "2023-01-15"
     },
     {
       "id": 2,
       "image": "https://example.com/station2.jpg",
       "name": "Station Two",
-      "datecreation": "2024-03-21"
+      "datecreation": "2023-02-21"
+    },
+    {
+      "id": 3,
+      "image": "https://example.com/station3.jpg",
+      "name": "Station Three",
+      "datecreation": "2023-03-18"
+    },
+    {
+      "id": 4,
+      "image": "https://example.com/station4.jpg",
+      "name": "Station Four",
+      "datecreation": "2023-04-30"
+    },
+    {
+      "id": 5,
+      "image": "https://example.com/station5.jpg",
+      "name": "Station Five",
+      "datecreation": "2023-05-10"
+    },
+    {
+      "id": 6,
+      "image": "https://example.com/station6.jpg",
+      "name": "Station Six",
+      "datecreation": "2023-06-22"
+    },
+    {
+      "id": 7,
+      "image": "https://example.com/station7.jpg",
+      "name": "Station Seven",
+      "datecreation": "2023-07-05"
     }
   ]
 }

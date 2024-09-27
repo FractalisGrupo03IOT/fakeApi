@@ -1,0 +1,16 @@
+{
+  "stations": [
+    {
+      "id": 1,
+      "image": "https://example.com/station1.jpg",
+      "name": "Station One",
+      "datecreation": "2024-01-15"
+    },
+    {
+      "id": 2,
+      "image": "https://example.com/station2.jpg",
+      "name": "Station Two",
+      "datecreation": "2024-03-21"
+    }
+  ]
+}

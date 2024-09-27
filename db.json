@@ -2,43 +2,43 @@
   "stations": [
     {
       "id": 1,
-      "image": "https://example.com/station1.jpg",
+      "image": "https://fastly.picsum.photos/id/18/2500/1667.jpg?hmac=JR0Z_jRs9rssQHZJ4b7xKF82kOj8-4Ackq75D_9Wmz8",
       "name": "Station One",
       "datecreation": "2023-01-15"
     },
     {
       "id": 2,
-      "image": "https://example.com/station2.jpg",
+      "image": "https://fastly.picsum.photos/id/17/2500/1667.jpg?hmac=HD-JrnNUZjFiP2UZQvWcKrgLoC_pc_ouUSWv8kHsJJY",
       "name": "Station Two",
       "datecreation": "2023-02-21"
     },
     {
       "id": 3,
-      "image": "https://example.com/station3.jpg",
+      "image": "https://fastly.picsum.photos/id/28/4928/3264.jpg?hmac=GnYF-RnBUg44PFfU5pcw_Qs0ReOyStdnZ8MtQWJqTfA",
       "name": "Station Three",
       "datecreation": "2023-03-18"
     },
     {
       "id": 4,
-      "image": "https://example.com/station4.jpg",
+      "image": "https://fastly.picsum.photos/id/33/5000/3333.jpg?hmac=h5NVRcUXmsWm612YQOroHSA5n9R7gxZgoP60LHBPHtw",
       "name": "Station Four",
       "datecreation": "2023-04-30"
     },
     {
       "id": 5,
-      "image": "https://example.com/station5.jpg",
+      "image": "https://fastly.picsum.photos/id/37/2000/1333.jpg?hmac=vpYLNsQZwU2szsZc4Uo17cW786vR0GEUVq4icaKopQI",
       "name": "Station Five",
       "datecreation": "2023-05-10"
     },
     {
       "id": 6,
-      "image": "https://example.com/station6.jpg",
+      "image": "https://fastly.picsum.photos/id/55/4608/3072.jpg?hmac=ahGhylwdN52ULB37deeMZX6T_G7NiERtoPhwydMvUKQ",
       "name": "Station Six",
       "datecreation": "2023-06-22"
     },
     {
       "id": 7,
-      "image": "https://example.com/station7.jpg",
+      "image": "https://fastly.picsum.photos/id/72/3000/2000.jpg?hmac=hPLN3NcJrehzDdebypIHkhh2RLnh89HwJ8QemMsRjzc",
       "name": "Station Seven",
       "datecreation": "2023-07-05"
     }

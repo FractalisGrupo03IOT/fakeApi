@@ -18,31 +18,31 @@
       "id": 1,
       "image": "https://ecoinventos.com/wp-content/uploads/2022/03/tomate-cherry-maceta.jpg",
       "name": "Tomate - 01",
-      "station_id" : 1,
+      "station_id" : 1
     },
     {
       "id": 2,
       "image": "https://ecoinventos.com/wp-content/uploads/2022/03/tomate-cherry-maceta.jpg",
       "name": "Tomate - 02",
-      "station_id" : 1,
+      "station_id" : 1
     },
     {
       "id": 3,
       "image": "https://jardin.inecol.mx/images/PLANTA_MES/octubre/maiz5.jpg",
       "name": "Maiz - 01",
-      "station_id" : 1,
+      "station_id" : 1
     },
     {
       "id": 4,
       "image": "https://vendeplantas.com/wp-content/uploads/2023/06/arandano-enano-peru.jpg",
       "name": "Arandano - 01",
-      "station_id" : 2,
+      "station_id" : 2
     },
     {
       "id": 5,
       "image": "https://vendeplantas.com/wp-content/uploads/2023/06/arandano-enano-peru.jpg",
       "name": "Arandano - 02",
-      "station_id" : 2,
+      "station_id" : 2
     }
   ]
 }
